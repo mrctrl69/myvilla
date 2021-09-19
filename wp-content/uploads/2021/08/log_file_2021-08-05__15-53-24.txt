@@ -1,0 +1,42 @@
+
+---Upload files---
+Redux file was not uploaded. Error: Berkas yang ditunjuk tidak lolos uji pengunggahan.
+
+---Upload files---
+The import files were successfully uploaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/wordpress
+Data file = C:\xampp\htdocs\wordpress/wp-content/uploads/2021/08/content.xml
+Widget file = C:\xampp\htdocs\wordpress/wp-content/uploads/2021/08/widgets.wie
+Customizer file = C:\xampp\htdocs\wordpress/wp-content/uploads/2021/08/customizer.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog (sidebar) : 
+
+Cari - No Title - Imported
+Kategori - Categories - Imported
+Komentar Terbaru - Comments - Imported
+Tag Cloud - Tags - Imported
+
+Site (footer) : 
+
+Teks - No Title - Imported
+Menu Navigasi - Listings - Imported
+Kategori - Blog - Imported
+Menu Navigasi - Social - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!

@@ -1,0 +1,1440 @@
+# Translation of Plugins - HivePress &#8211; Multipurpose Directory, Listing &amp; Classifieds WordPress Plugin - Stable (latest release) in Indonesian
+# This file is distributed under the same license as the Plugins - HivePress &#8211; Multipurpose Directory, Listing &amp; Classifieds WordPress Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-25 03:23:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: id\n"
+"Project-Id-Version: Plugins - HivePress &#8211; Multipurpose Directory, Listing &amp; Classifieds WordPress Plugin - Stable (latest release)\n"
+
+#: includes/components/class-admin.php:120 templates/admin/themes.php:6
+msgid "Themes"
+msgstr "Tema"
+
+#: includes/configs/meta-boxes.php:155
+msgctxt "vendor"
+msgid "Verified"
+msgstr "Terverifikasi"
+
+#. translators: %s: field label.
+#: includes/configs/strings.php:79
+msgid "\"%s\" field contains too many values."
+msgstr "Terlalu banyak nilai pada bidang \"%s\"."
+
+#: includes/configs/strings.php:157
+msgid "Mark this vendor as verified"
+msgstr "Tandai vendor ini sebagai terverifikasi"
+
+#: includes/fields/class-select.php:92
+msgid "Maximum Selection"
+msgstr "Pilihan Maksimal"
+
+#: templates/admin/themes.php:15
+msgid "Theme Details"
+msgstr "Detil Tema"
+
+#: templates/admin/themes.php:20
+msgid "Preview"
+msgstr "Pratinjau"
+
+#: templates/admin/themes.php:34
+msgctxt "theme"
+msgid "Active"
+msgstr "Aktif"
+
+#: includes/components/class-user.php:94 includes/components/class-user.php:149
+#: includes/controllers/class-user.php:394
+msgid "Please check your email to activate your account."
+msgstr "Silahkan cek kotak masuk untuk mengaktifkan akun anda."
+
+#: includes/components/class-attribute.php:1189
+msgid "Icon"
+msgstr "Ikon"
+
+#: includes/configs/settings.php:321
+msgid "Require email address verification"
+msgstr "Membutuhkan verifikasi alamat email"
+
+#: includes/emails/class-user-email-verify.php:30
+#: includes/emails/class-user-email-verify.php:49
+msgid "Email Verification"
+msgstr "Verifikasi email"
+
+#: includes/emails/class-user-email-verify.php:31
+msgid "This email is sent to users when email verification is required."
+msgstr "Email ini dikirim ke pengguna saat verifikasi email diperlukan."
+
+#: includes/emails/class-user-email-verify.php:50
+msgid "Hi, %user_name%! Please click on the following link to verify your email address: %email_verify_url%"
+msgstr "Halo, %user_name%! Silakan klik tautan berikut untuk memverifikasi alamat email Anda: %email_verify_url%"
+
+#: includes/configs/strings.php:181
+#: includes/fields/class-attachment-upload.php:66
+msgid "Attachment"
+msgstr "Lampiran"
+
+#: includes/fields/class-attachment-upload.php:77
+msgid "File Types"
+msgstr "Jenis File"
+
+#: includes/fields/class-date.php:127
+msgid "Time"
+msgstr "Waktu"
+
+#: includes/fields/class-date.php:128
+msgid "Allow setting time"
+msgstr "Izinkan pengaturan waktu"
+
+#: includes/fields/class-select.php:112
+msgid "Search any of the selected options"
+msgstr "Cari salah satu opsi yang dipilih"
+
+#: includes/controllers/class-user.php:152
+msgid "Email Verified"
+msgstr "Email Terverifikasi"
+
+#: templates/user/register/user-email-verify-message.php:5
+msgid "Thank you! Your email address has been verified and you can start using your account."
+msgstr "Terima kasih! Alamat email anda telah diverifikasi dan mulailah tambahkan listing."
+
+#: includes/configs/settings.php:312
+msgid "Generate username from the email address"
+msgstr "Hasilkan nama pengguna dari alamat email"
+
+#: includes/blocks/class-listing-hide-toggle.php:33
+msgid "Hide"
+msgstr "Sembunyikan"
+
+#: includes/blocks/class-listing-hide-toggle.php:37
+msgid "Unhide"
+msgstr "Tampilkan"
+
+#: includes/components/class-attribute.php:1242
+msgctxt "attribute"
+msgid "Moderated"
+msgstr "Dimoderasi"
+
+#: includes/components/class-attribute.php:1243
+msgid "Manually approve changes"
+msgstr "Setujui perubahan secara manual"
+
+#: includes/configs/strings.php:95
+msgid "Listing Attributes"
+msgstr "Atribut Listing"
+
+#: includes/configs/strings.php:149
+msgid "Vendor Attributes"
+msgstr "Atribut Vendor"
+
+#: includes/configs/settings.php:210 includes/configs/settings.php:271
+msgctxt "noun"
+msgid "Display Name"
+msgstr "Nama tampilan"
+
+#: includes/configs/settings.php:211
+msgid "User Name"
+msgstr "Nama Pengguna"
+
+#: includes/configs/settings.php:281
+msgid "Full Name"
+msgstr "Nama Lengkap"
+
+#: includes/configs/strings.php:46
+msgid "Client Secret"
+msgstr "Rahasia Klien"
+
+#: includes/configs/strings.php:47
+msgid "Redirect URL"
+msgstr "URL pengalihan"
+
+#: includes/configs/strings.php:49
+msgid "Authorization"
+msgstr "Otorisasi"
+
+#: includes/configs/strings.php:155
+msgid "Display vendors on the front-end"
+msgstr "Tampilkan vendor di front-end"
+
+#: includes/fields/class-google-oauth-button.php:38
+msgid "Grant Access"
+msgstr "Berikan Akses"
+
+#: includes/fields/class-google-oauth-button.php:59
+msgid "Revoke Access"
+msgstr "Cabut Akses"
+
+#: includes/fields/class-google-oauth-button.php:121
+msgid "Please set Google Client ID and Secret to proceed."
+msgstr "Harap tetapkan ID Klien dan Rahasia Google untuk melanjutkan."
+
+#: includes/fields/class-text.php:142
+msgid "Click to copy"
+msgstr "Klik untuk menyalin"
+
+#: templates/admin/extensions.php:38 templates/admin/themes.php:25
+msgid "Purchase"
+msgstr "Beli"
+
+#: templates/admin/extensions.php:40 templates/admin/themes.php:27
+msgid "Install"
+msgstr "Pasang"
+
+#: templates/admin/extensions.php:45
+msgid "Update"
+msgstr "Perbarui"
+
+#: templates/admin/extensions.php:49
+msgctxt "extension"
+msgid "Active"
+msgstr "Aktif"
+
+#: templates/admin/extensions.php:57
+msgid "Docs"
+msgstr "Dokumentasi"
+
+#: templates/admin/extensions.php:59
+msgctxt "noun"
+msgid "Support"
+msgstr "Dukungan"
+
+#: includes/configs/strings.php:133
+msgid "Set the number of days after which an expired listing is deleted."
+msgstr "Tetapkan jumlah hari setelah tanggal listing kedaluwarsa dihapus."
+
+#: includes/configs/meta-boxes.php:84
+msgid "Featuring Date"
+msgstr "Tanggal Unggulan"
+
+#: includes/configs/strings.php:37
+msgid "Expiration Date"
+msgstr "Tanggal habis tempo"
+
+#: includes/configs/strings.php:41
+msgid "Overview"
+msgstr "Gambaran"
+
+#: includes/configs/strings.php:42
+msgid "Storage"
+msgstr "Simpan"
+
+#: includes/configs/strings.php:43
+msgid "Storage Period"
+msgstr "Masa Simpan"
+
+#: includes/configs/strings.php:61
+msgctxt "sort order"
+msgid "Date Registered"
+msgstr "Tanggal Terdaftar"
+
+#: includes/configs/strings.php:85
+msgid "Related Listings"
+msgstr "Listing Serupa"
+
+#: includes/configs/strings.php:100
+msgid "Renew Listing"
+msgstr "Perbarui Listing"
+
+#: includes/configs/strings.php:110
+msgid "Listing Renewed"
+msgstr "Listing Telah Diperbarui"
+
+#. translators: %s: Listing title.
+#: includes/configs/strings.php:116
+msgid "Thank you! Your listing \"%s\" has been renewed and will appear at the top of the page."
+msgstr "Terima kasih! Listing anda \"%s\" telah diperpanjang dan akan muncul di bagian atas halaman."
+
+#: includes/configs/strings.php:122
+msgid "Related Listings per Page"
+msgstr "Listing Terkait per Halaman"
+
+#: includes/configs/strings.php:134
+msgid "Set a date on which the listing will expire."
+msgstr "Tetapkan tanggal berakhirnya listing."
+
+#: includes/configs/strings.php:135
+msgid "Set a date on which the listing will lose featured status."
+msgstr "Tetapkan tanggal di mana listing akan kehilangan status unggulan."
+
+#: includes/configs/strings.php:150
+msgid "Vendor Search Form"
+msgstr "Formulir Pencarian Vendor"
+
+#: includes/configs/strings.php:153
+msgid "Vendors per Page"
+msgstr "Vendor per Halaman"
+
+#: includes/configs/strings.php:154
+msgid "Choose a page that displays all vendors."
+msgstr "Pilih halaman yang menampilkan semua vendor."
+
+#: includes/fields/class-embed.php:30
+msgctxt "field"
+msgid "Embed"
+msgstr "Embed"
+
+#: includes/fields/class-text.php:99
+msgid "Regex Pattern"
+msgstr "Pola Regex"
+
+#: includes/blocks/class-user-register-form.php:30
+msgid "User Registration Form"
+msgstr "Formulir Pendaftaran Pengguna"
+
+#: includes/configs/strings.php:152
+msgid "Vendors Page"
+msgstr "Halaman Vendor"
+
+#: includes/fields/class-attachment-upload.php:357
+#: templates/listing/edit/page/listing-delete-link.php:5
+msgid "Delete"
+msgstr "Hapus"
+
+#: includes/emails/class-listing-expire.php:50
+msgid "Hi, %user_name%! Your listing \"%listing_title%\" has expired, click on the following link to renew it: %listing_url%"
+msgstr "Hai, %user_name%! Listing Anda \"%listing_title%\" telah kedaluwarsa, klik tautan berikut untuk memperbaruinya:% listing_url%"
+
+#: includes/components/class-listing.php:675
+msgid "Edit"
+msgstr "Edit"
+
+#: includes/components/class-admin.php:765
+msgctxt "plural"
+msgid "All"
+msgstr "Semua"
+
+#: includes/components/class-admin.php:770
+msgctxt "plural"
+msgid "Installed"
+msgstr "Terpasang"
+
+#: includes/components/class-attribute.php:385
+msgid "Add Option"
+msgstr "Tambahkan Opsi"
+
+#: includes/components/class-attribute.php:386
+msgid "Edit Option"
+msgstr "Edit Opsi"
+
+#: includes/components/class-attribute.php:387
+msgid "Update Option"
+msgstr "Opsi Pembaruan"
+
+#: includes/components/class-attribute.php:388
+msgid "Parent Option"
+msgstr "Opsi Induk"
+
+#: includes/components/class-attribute.php:389
+msgid "Search Options"
+msgstr "Opsi Pencarian"
+
+#: includes/components/class-attribute.php:390
+msgid "No options found."
+msgstr "Tidak ada opsi yang ditemukan."
+
+#: includes/components/class-listing.php:548 includes/configs/meta-boxes.php:77
+#: templates/listing/view/listing-featured-badge.php:7
+msgctxt "listing"
+msgid "Featured"
+msgstr "Unggulan"
+
+#: includes/components/class-listing.php:552 includes/configs/meta-boxes.php:70
+#: templates/listing/view/listing-verified-badge.php:7
+msgctxt "listing"
+msgid "Verified"
+msgstr "Terverifikasi"
+
+#: includes/components/class-attribute.php:1117
+msgctxt "attribute"
+msgid "Editable"
+msgstr "Dapat diedit"
+
+#: includes/components/class-attribute.php:535
+msgctxt "attribute"
+msgid "Searchable"
+msgstr "Dapat dicari"
+
+#: includes/components/class-attribute.php:1153
+msgctxt "attribute"
+msgid "Sortable"
+msgstr "Urutan"
+
+#: includes/components/class-attribute.php:1154
+msgid "Display as a sorting option"
+msgstr "Tampilan sebagai opsi penyortiran"
+
+#: includes/components/class-attribute.php:1181
+#: includes/components/class-attribute.php:1182
+msgid "Block"
+msgstr "Blok"
+
+#: includes/components/class-attribute.php:1181
+#: includes/components/class-attribute.php:1183
+msgctxt "area"
+msgid "primary"
+msgstr "utama"
+
+#: includes/components/class-attribute.php:1182
+#: includes/components/class-attribute.php:1184
+msgctxt "area"
+msgid "secondary"
+msgstr "sekunder"
+
+#: includes/components/class-attribute.php:1183
+#: includes/components/class-attribute.php:1184
+msgid "Page"
+msgstr "Halaman"
+
+#: includes/components/class-attribute.php:1198
+msgid "Set the attribute display format."
+msgstr "Atur format tampilan atribut."
+
+#: includes/components/class-attribute.php:1214
+#: includes/configs/meta-boxes.php:132
+msgctxt "sort priority"
+msgid "Order"
+msgstr "Urutan"
+
+#: includes/emails/class-listing-approve.php:31
+msgid "This email is sent to users when listing is approved."
+msgstr "Email ini dikirimkan kepada pengguna saat listing disetujui."
+
+#: includes/emails/class-listing-reject.php:31
+msgid "This email is sent to users when listing is rejected."
+msgstr "Email ini dikirim ke pengguna saat listing ditolak."
+
+#: includes/emails/class-listing-expire.php:31
+msgid "This email is sent to users when listing is expired."
+msgstr "Email ini dikirimkan kepada pengguna saat listing berakhir."
+
+#: includes/emails/class-user-register.php:31
+msgid "This email is sent to users after registration."
+msgstr "Email ini dikirimkan kepada pengguna setelah pendaftaran."
+
+#: includes/emails/class-user-password-request.php:31
+msgid "This email is sent to users when a password reset is requested."
+msgstr "Email ini dikirimkan kepada pengguna ketika reset kata sandi diminta."
+
+#: includes/configs/strings.php:17
+msgctxt "noun"
+msgid "Display"
+msgstr "Tampilan"
+
+#: includes/configs/strings.php:18
+msgctxt "noun"
+msgid "Search"
+msgstr "Cari"
+
+#: includes/configs/strings.php:44
+msgid "API Key"
+msgstr "Kunci API"
+
+#: includes/configs/strings.php:45
+msgid "Client ID"
+msgstr "ID Klien"
+
+#: includes/configs/strings.php:48
+msgid "App ID"
+msgstr "ID Aplikasi"
+
+#: includes/configs/strings.php:56
+msgctxt "quantity"
+msgid "Columns"
+msgstr "Kolom"
+
+#: includes/configs/strings.php:57
+msgctxt "quantity"
+msgid "Number"
+msgstr "Jumlah"
+
+#: includes/configs/strings.php:58
+msgctxt "sort order"
+msgid "Item Count"
+msgstr "Jumlah Item"
+
+#: includes/configs/strings.php:59
+msgctxt "sort order"
+msgid "Name"
+msgstr "Nama"
+
+#: includes/configs/strings.php:64
+msgctxt "sort"
+msgid "Order"
+msgstr "Urutan"
+
+#: includes/configs/strings.php:65
+msgctxt "imperative"
+msgid "Add Details"
+msgstr "Tambahkan Detail"
+
+#. translators: %s: WooCommerce.
+#: includes/configs/strings.php:69
+msgid "%s Product"
+msgstr "%s Produk"
+
+#. translators: %s: token list.
+#: includes/configs/strings.php:71
+msgid "The following tokens are available: %s."
+msgstr "Token berikut tersedia: %s."
+
+#. translators: %s: extension name.
+#: includes/configs/strings.php:73
+msgid "%s extension is incompatible with the current HivePress version, please update HivePress or deactivate it."
+msgstr "Ekstensi %s tidak kompatibel dengan versi HivePress saat ini, harap perbarui HivePress atau nonaktifkan."
+
+#. translators: %s: terms URL.
+#: includes/configs/strings.php:75
+msgid "I agree to the <a href=\"%s\" target=\"_blank\">terms and conditions</a>"
+msgstr "Saya setuju dengan <a href=\"%s\" target=\"_blank\">syarat dan ketentuan</a> yang berlaku."
+
+#: includes/configs/strings.php:90
+msgid "Featuring of Listings"
+msgstr "Listing Unggulan"
+
+#: includes/configs/strings.php:91
+msgid "Featured Listings"
+msgstr "Listing Unggulan"
+
+#: includes/configs/strings.php:98
+msgid "Listing Expiration"
+msgstr "Listing Kedaluwarsa"
+
+#: includes/configs/strings.php:125
+msgid "Make listings featured"
+msgstr "Jadikan listing sebagai unggulan"
+
+#: includes/configs/strings.php:144
+msgid "Add Vendor"
+msgstr "Tambahkan Vendor"
+
+#: includes/configs/strings.php:174
+msgctxt "attribute"
+msgid "Add New"
+msgstr "Tambah Baru"
+
+#: includes/configs/strings.php:175
+msgid "Add Attribute"
+msgstr "Tambahkan Atribut"
+
+#: includes/configs/strings.php:163
+msgid "Add Category"
+msgstr "Tambahkan Kategori"
+
+#: includes/configs/strings.php:164
+msgid "Edit Category"
+msgstr "Edit Kategori"
+
+#: includes/configs/strings.php:165
+msgid "Update Category"
+msgstr "Perbarui Kategori"
+
+#: includes/configs/strings.php:166
+msgid "View Category"
+msgstr "Lihat Kategori"
+
+#. translators: %s: field label.
+#: includes/configs/strings.php:77
+#: includes/fields/class-attachment-select.php:72
+#: includes/fields/class-attachment-upload.php:266
+#: includes/fields/class-date.php:272 includes/fields/class-email.php:90
+#: includes/fields/class-regex.php:75 includes/fields/class-text.php:212
+msgid "\"%s\" field contains an invalid value."
+msgstr "Bidang \"%s\" berisi nilai yang tidak valid."
+
+#: includes/fields/class-field.php:143
+msgctxt "field"
+msgid "Required"
+msgstr "Wajib"
+
+#: includes/fields/class-field.php:234
+msgctxt "field"
+msgid "optional"
+msgstr "opsional"
+
+#. translators: %s: field label.
+#: includes/fields/class-field.php:511
+msgid "\"%s\" field is required."
+msgstr "Bidang \"%s\" diperlukan."
+
+#: includes/fields/class-number.php:72
+msgctxt "quantity"
+msgid "Decimals"
+msgstr "Desimal"
+
+#: includes/fields/class-radio.php:30
+msgid "Radio Buttons"
+msgstr "Tombol radio"
+
+#: includes/fields/class-select.php:72
+msgctxt "field"
+msgid "Select"
+msgstr "Pilih"
+
+#: includes/fields/class-select.php:84
+msgctxt "selection"
+msgid "Multiple"
+msgstr "Serbaguna"
+
+#: includes/fields/class-textarea.php:45
+msgid "Formatting"
+msgstr "Pemformatan"
+
+#: includes/fields/class-textarea.php:46
+msgid "Allow HTML formatting"
+msgstr "Izinkan pemformatan HTML"
+
+#: includes/configs/strings.php:52
+msgid "Changes have been saved."
+msgstr "Perubahan telah disimpan."
+
+#: includes/configs/strings.php:51
+msgid "Save Changes"
+msgstr "Simpan Perubahan"
+
+#: includes/models/class-listing.php:61
+msgctxt "listing"
+msgid "Hidden"
+msgstr "Tersembunyi"
+
+#: includes/models/class-listing.php:62
+msgctxt "listing"
+msgid "Pending"
+msgstr "Tertunda"
+
+#: includes/configs/post-types.php:91
+msgctxt "vendor"
+msgid "Add New"
+msgstr "Tambah Baru"
+
+#: includes/configs/strings.php:39
+msgid "Free"
+msgstr "Gratis"
+
+#: includes/configs/strings.php:60
+msgctxt "sort order"
+msgid "Date Added"
+msgstr "Tanggal Ditambahkan"
+
+#: includes/configs/strings.php:62
+msgctxt "sort order"
+msgid "Title"
+msgstr "Judul"
+
+#: includes/configs/strings.php:63
+msgctxt "sort order"
+msgid "Random"
+msgstr "Acak"
+
+#: includes/configs/strings.php:92
+msgid "View Listings"
+msgstr "Lihat Listing"
+
+#: includes/configs/strings.php:162
+msgid "Parent Category"
+msgstr "Kategori Induk"
+
+#: includes/configs/strings.php:161
+msgid "Categories"
+msgstr "Kategori"
+
+#: includes/configs/strings.php:167
+msgid "Search Categories"
+msgstr "Cari Kategori"
+
+#: includes/configs/strings.php:169
+msgctxt "imperative"
+msgid "Select Category"
+msgstr "Pilih Kategori"
+
+#: includes/components/class-attribute.php:718
+msgctxt "field"
+msgid "requires review"
+msgstr "memerlukan ulasan"
+
+#: includes/configs/post-types.php:66
+msgctxt "listing"
+msgid "Add New"
+msgstr "Tambah Listing"
+
+#: includes/fields/class-date-range.php:58
+msgid "Date Range"
+msgstr "Rentang Tanggal"
+
+#: includes/fields/class-date.php:107
+msgid "Minimum Date"
+msgstr "Tanggal Minimum"
+
+#: includes/fields/class-date.php:113
+msgid "Maximum Date"
+msgstr "Tanggal Maksimum"
+
+#. translators: 1: field label, 2: date.
+#: includes/fields/class-date.php:279
+msgid "\"%1$s\" can't be earlier than %2$s."
+msgstr "\"%1$s\" tidak boleh lebih awal dari %2$s."
+
+#. translators: 1: field label, 2: date.
+#: includes/fields/class-date.php:288
+msgid "\"%1$s\" can't be later than %2$s."
+msgstr "\"%1$s\" tidak boleh lebih dari %2$s."
+
+#: includes/emails/class-listing-update.php:31
+msgid "Listing \"%listing_title%\" %listing_url% has been updated with the following details: %listing_attributes%."
+msgstr "Listing \"%listing_title%\" %listing_url% telah diperbarui dengan rincian berikut: %listing_attributes%."
+
+#: includes/components/class-attribute.php:486
+msgid "Edit Options"
+msgstr "Edit Opsi"
+
+#: includes/configs/settings.php:147 includes/configs/strings.php:35
+msgid "Expiration"
+msgstr "Kedaluwarsa"
+
+#: includes/configs/strings.php:30
+msgid "Details"
+msgstr "Detail"
+
+#: includes/configs/strings.php:36
+msgid "Expiration Period"
+msgstr "Periode Kedaluwarsa"
+
+#: includes/configs/strings.php:101
+msgid "Add Listing"
+msgstr "Tambahkan Listing"
+
+#: includes/configs/strings.php:109
+msgid "Listing Expired"
+msgstr "Listing Telah Kedaluwarsa"
+
+#: includes/configs/strings.php:120
+msgid "Regular Listings per Page"
+msgstr "Listing Biasa per Halaman"
+
+#: includes/configs/strings.php:121
+msgid "Featured Listings per Page"
+msgstr "Listing Unggulan per Halaman"
+
+#: includes/configs/strings.php:123
+msgid "Mark this listing as verified"
+msgstr "Tandai listing ini sebagai terverifikasi"
+
+#: includes/configs/strings.php:126
+msgid "Display only featured listings"
+msgstr "Hanya tampilkan listing unggulan"
+
+#: includes/configs/strings.php:130
+msgid "Allow submitting new listings"
+msgstr "Izinkan mengirim listing baru"
+
+#: includes/configs/strings.php:132
+msgid "Set the number of days after which a listing expires."
+msgstr "Tetapkan jumlah hari setelah berakhirnya listing."
+
+#: includes/configs/strings.php:138
+msgid "Please provide details that will help us verify that this listing violates the terms of service."
+msgstr "Harap berikan rincian yang akan membantu kami memverifikasi bahwa listing ini melanggar persyaratan layanan."
+
+#: includes/fields/class-select.php:101 includes/fields/class-select.php:111
+msgid "Options"
+msgstr "Opsi"
+
+#: includes/fields/class-url.php:30
+msgid "URL"
+msgstr "URL"
+
+#. Description of the plugin
+msgid "Multipurpose directory, listing & classifieds plugin."
+msgstr "Direktori serbaguna, listing & plugin iklan baris."
+
+#: includes/components/class-admin.php:121 templates/admin/extensions.php:6
+msgid "Extensions"
+msgstr "Ekstensi"
+
+#: includes/components/class-user.php:164 includes/configs/settings.php:278
+#: includes/configs/settings.php:311 includes/models/class-user.php:48
+msgid "Username"
+msgstr "Nama pengguna"
+
+#: includes/components/class-attribute.php:1118
+msgid "Allow front-end editing"
+msgstr "Izinkan pengeditan \"front-end\""
+
+#: includes/components/class-attribute.php:1124
+#: includes/components/class-attribute.php:1160
+msgid "Field Type"
+msgstr "Jenis bidang"
+
+#: includes/components/class-attribute.php:536
+msgid "Display in the search form"
+msgstr "Tampilan di form pencarian"
+
+#: includes/configs/settings.php:35
+msgid "Display categories"
+msgstr "Tampilkan kategori"
+
+#: includes/configs/strings.php:32
+msgid "Editing"
+msgstr "Editing"
+
+#: includes/configs/strings.php:97
+msgid "Listing Search Form"
+msgstr "Listing Formulir Pencarian"
+
+#: includes/configs/strings.php:142
+msgid "Vendor"
+msgstr "Vendor"
+
+#: includes/configs/strings.php:143
+msgid "View Vendor"
+msgstr "Lihat Vendor"
+
+#: includes/configs/strings.php:145
+msgid "Edit Vendor"
+msgstr "Edit Vendor"
+
+#: includes/configs/strings.php:146
+msgid "Vendors"
+msgstr "Vendor"
+
+#: includes/configs/strings.php:147
+msgid "Search Vendors"
+msgstr "Cari Vendor"
+
+#: includes/configs/strings.php:148
+msgid "No vendors found."
+msgstr "Tidak ada vendor yang ditemukan."
+
+#. translators: %s: files number.
+#: includes/controllers/class-attachment.php:164
+msgid "Only up to %s files can be uploaded."
+msgstr "Hanya %s file yang dapat diunggah."
+
+#: includes/controllers/class-user.php:515
+msgid "Password reset key is expired or invalid."
+msgstr "Kunci atur ulang kata sandi telah kedaluwarsa atau tidak valid."
+
+#: includes/fields/class-attachment-upload.php:70
+#: includes/fields/class-checkbox.php:49
+msgid "Caption"
+msgstr "Judul"
+
+#: includes/fields/class-attachment-upload.php:122
+msgid "Select Files"
+msgstr "Pilih File"
+
+#: includes/fields/class-checkbox.php:99
+msgid "Yes"
+msgstr "Ya"
+
+#: includes/fields/class-checkbox.php:99
+msgid "No"
+msgstr "Tidak"
+
+#: includes/fields/class-date.php:100 includes/fields/class-number.php:65
+#: includes/fields/class-select.php:77 includes/fields/class-text.php:78
+msgid "Placeholder"
+msgstr "Placeholder"
+
+#: includes/fields/class-field.php:144
+msgid "Make this field required"
+msgstr "Buat bidang ini wajib diisi"
+
+#: includes/fields/class-number-range.php:44
+msgid "Number Range"
+msgstr "Rentang Angka"
+
+#: includes/fields/class-number.php:82
+msgid "Minimum Value"
+msgstr "Nilai Minimum"
+
+#: includes/fields/class-number.php:89
+msgid "Maximum Value"
+msgstr "Nilai maksimum"
+
+#. translators: 1: field label, 2: number.
+#: includes/fields/class-number.php:183
+msgid "\"%1$s\" can't be lower than %2$s."
+msgstr "\"%1$s\" tidak boleh lebih rendah dari %2$s."
+
+#. translators: 1: field label, 2: number.
+#: includes/fields/class-number.php:188
+msgid "\"%1$s\" can't be greater than %2$s."
+msgstr "\"%1$s\" tidak boleh lebih dari %2$s."
+
+#: includes/fields/class-select.php:85
+msgid "Allow multiple selection"
+msgstr "Izinkan beberapa pilihan"
+
+#: includes/fields/class-text.php:85
+msgid "Minimum Length"
+msgstr "Panjang minimum"
+
+#: includes/fields/class-text.php:92
+msgid "Maximum Length"
+msgstr "Panjang maksimum"
+
+#. translators: 1: field label, 2: length.
+#: includes/fields/class-text.php:202
+msgid "\"%1$s\" should be at least %2$s characters long."
+msgstr "\"%1$s\" harus sepanjang setidaknya %2$s karakter."
+
+#. translators: 1: field label, 2: length.
+#: includes/fields/class-text.php:207
+msgid "\"%1$s\" can't be longer than %2$s characters."
+msgstr "\"%1$s\" tidak boleh lebih dari %2$s karakter."
+
+#: includes/fields/class-textarea.php:37
+msgid "Textarea"
+msgstr "Area teks"
+
+#: includes/configs/strings.php:24
+msgid "Name"
+msgstr "Nama"
+
+#: templates/page/no-results-message.php:6
+msgid "Nothing found"
+msgstr "Tidak menemukan apapun"
+
+#: templates/page/no-results-message.php:7
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Maaf, tidak ada yang cocok dengan istilah pencarian anda. Silakan coba lagi dengan beberapa kata kunci yang berbeda."
+
+#: includes/configs/strings.php:96
+msgid "Listing Categories"
+msgstr "Kategori Listing"
+
+#: includes/configs/strings.php:124
+msgid "Make this listing featured"
+msgstr "Jadikan listing ini unggulan"
+
+#: templates/admin/extensions.php:47 templates/admin/themes.php:32
+msgid "Activate"
+msgstr "Mengaktifkan"
+
+#. translators: %s: version.
+#: templates/admin/extensions.php:67
+msgid "Version %s"
+msgstr "Versi %s"
+
+#. translators: 1: results range start, 2: results range end, 3: total results.
+#: includes/blocks/class-result-count.php:57
+msgid "Showing %1$s-%2$s of %3$s results"
+msgstr "Menampilkan%1$s-%2$s dari %3$s hasil"
+
+#: includes/configs/strings.php:29
+msgid "Description"
+msgstr "Deskripsi"
+
+#: includes/components/class-form.php:495
+msgid "Captcha is invalid."
+msgstr "Captcha tidak sah."
+
+#: includes/components/class-user.php:251
+#: includes/controllers/class-user.php:136
+#: includes/forms/class-user-login.php:77
+#: templates/user/login/user-login-link.php:17
+#: templates/user/register/user-login-link.php:5
+msgid "Sign In"
+msgstr "Masuk"
+
+#: includes/components/class-user.php:263
+#: includes/forms/class-user-register.php:71
+#: templates/user/login/user-register-link.php:7
+msgid "Register"
+msgstr "Daftar"
+
+#: includes/components/class-user.php:275
+#: includes/controllers/class-user.php:144
+#: includes/forms/class-user-password-request.php:30
+#: includes/forms/class-user-password-reset.php:73
+#: templates/user/password-reset/user-password-reset-message.php:6
+msgid "Reset Password"
+msgstr "Setel Ulang Kata Sandi"
+
+#: includes/configs/strings.php:27
+msgid "Images"
+msgstr "Gambar"
+
+#: includes/configs/strings.php:28
+msgid "Select Images"
+msgstr "Pilih Gambar"
+
+#: includes/components/class-attribute.php:1108
+#: includes/configs/strings.php:172
+msgid "Attributes"
+msgstr "Atribut"
+
+#: includes/components/class-attribute.php:1174
+msgid "Areas"
+msgstr "Area"
+
+#: includes/components/class-attribute.php:1175
+msgid "Choose the template areas where you want to display this attribute."
+msgstr "Pilih area templat tempat Anda ingin menampilkan atribut ini."
+
+#: includes/components/class-attribute.php:1197
+msgid "Format"
+msgstr "Format"
+
+#: includes/configs/meta-boxes.php:124
+msgid "Image"
+msgstr "Gambar"
+
+#: includes/configs/meta-boxes.php:125 includes/models/class-user.php:107
+msgid "Select Image"
+msgstr "Pilih Gambar"
+
+#: includes/configs/meta-boxes.php:142
+msgid "Display subcategories"
+msgstr "Tampilkan subkategorl"
+
+#: includes/configs/settings.php:105 includes/configs/settings.php:120
+#: includes/configs/strings.php:33
+msgid "Submission"
+msgstr "Pengajuan"
+
+#: includes/configs/settings.php:110
+msgid "Submission Terms Page"
+msgstr "Halaman Ketentuan Pengajuan"
+
+#: includes/configs/post-types.php:21 includes/configs/post-types.php:27
+#: includes/configs/strings.php:31
+msgid "Emails"
+msgstr "Email"
+
+#: includes/emails/class-listing-reject.php:50
+msgid "Hi, %user_name%! Unfortunately, your listing \"%listing_title%\" has been rejected."
+msgstr "Halo ,%user_name%! Sayang sekali, listing anda \"%listing_title%\" telah ditolak. Silakan coba lagi nanti"
+
+#: includes/configs/settings.php:261
+msgid "Users"
+msgstr "Pengguna"
+
+#: includes/configs/settings.php:279 includes/models/class-user.php:70
+msgid "First Name"
+msgstr "Nama Depan"
+
+#: includes/configs/settings.php:280 includes/models/class-user.php:78
+msgid "Last Name"
+msgstr "Nama belakang"
+
+#: includes/configs/settings.php:293
+msgid "Registration Terms Page"
+msgstr "Halaman Ketentuan Pendaftaran"
+
+#: includes/configs/settings.php:294
+msgid "Choose a page with terms that user has to accept before registering."
+msgstr "Pilih halaman dengan ketentuan yang harus diterima pengguna sebelum mendaftar."
+
+#: includes/configs/post-types.php:22 includes/configs/settings.php:320
+#: includes/fields/class-email.php:30 includes/models/class-user.php:56
+msgid "Email"
+msgstr "Email"
+
+#: includes/emails/class-user-register.php:30
+msgid "User Registered"
+msgstr "Pengguna Terdaftar"
+
+#: includes/emails/class-user-register.php:50
+msgid "Hi, %user_name%! Thank you for registering, here's your password: %user_password%"
+msgstr "Halo, %user_name%! Terima kasih telah mendaftar, berikut ini kata sandi anda: %user_password%"
+
+#: includes/emails/class-user-password-request.php:30
+#: includes/emails/class-user-password-request.php:49
+msgid "Password Reset"
+msgstr "Reset Kata Sandi"
+
+#: includes/emails/class-user-password-request.php:50
+msgid "Hi, %user_name%! Please click on the following link to set a new password: %password_reset_url%"
+msgstr "Halo, %user_name%! Silakan klik tautan berikut untuk membuat kata sandi baru: %password_reset_url%"
+
+#: includes/configs/settings.php:342
+msgid "Protected Forms"
+msgstr "Formulir Yang Dilindungi"
+
+#: includes/configs/settings.php:350
+msgid "Site Key"
+msgstr "Kunci Situs"
+
+#: includes/configs/settings.php:358
+msgid "Secret Key"
+msgstr "Kunci Rahasia"
+
+#: includes/configs/strings.php:16 templates/admin/settings.php:6
+msgid "Settings"
+msgstr "Pengaturan"
+
+#: includes/configs/strings.php:34
+msgid "Moderation"
+msgstr "Moderasi"
+
+#: includes/configs/strings.php:50
+msgid "Return to My Account"
+msgstr "Kembali ke Akun Saya"
+
+#: includes/configs/strings.php:82
+msgid "Listing"
+msgstr "Listing"
+
+#: includes/configs/strings.php:84
+msgid "All Listings"
+msgstr "Semua Listing"
+
+#. translators: %s: Vendor name.
+#: includes/configs/strings.php:89
+msgid "Listings by %s"
+msgstr "Listing oleh %s"
+
+#: includes/configs/strings.php:93
+msgid "Search Listings"
+msgstr "Cari Listing"
+
+#: includes/configs/strings.php:99
+msgid "Submit Listing"
+msgstr "Kirimkan Listing"
+
+#: includes/configs/strings.php:102
+msgid "View Listing"
+msgstr "Lihat Listing"
+
+#: includes/configs/strings.php:103
+msgid "Edit Listing"
+msgstr "Edit Listing"
+
+#: includes/configs/strings.php:104
+msgid "Delete Listing"
+msgstr "Hapus Listing"
+
+#: includes/configs/strings.php:105
+msgid "Report Listing"
+msgstr "Laporkan Listing"
+
+#: includes/configs/strings.php:106
+msgid "Listing Submitted"
+msgstr "Listing Telah Dikirimkan"
+
+#: includes/configs/strings.php:107
+msgid "Listing Approved"
+msgstr "Listing Disetujui"
+
+#: includes/configs/strings.php:108
+msgid "Listing Rejected"
+msgstr "Listing Ditolak"
+
+#: includes/configs/strings.php:111
+msgid "Listing Updated"
+msgstr "Listing Telah Diperbarui"
+
+#: includes/configs/strings.php:112
+msgid "Listing Reported"
+msgstr "Listing Telah Dilaporkan"
+
+#: includes/configs/strings.php:117
+msgid "Listing has been reported."
+msgstr "Listing telah dilaporkan."
+
+#: includes/configs/strings.php:118
+msgid "Listings Page"
+msgstr "Halaman Listing"
+
+#: includes/configs/strings.php:119
+msgid "Listings Page Display"
+msgstr "Tampilan Halaman Listing"
+
+#: includes/configs/strings.php:128
+msgid "Are you sure you want to permanently delete this listing?"
+msgstr "Apakah Anda yakin ingin menghapus listing ini secara permanen?"
+
+#: includes/configs/strings.php:129
+msgid "Manually approve new listings"
+msgstr "Setujui secara manual listing baru"
+
+#: includes/configs/strings.php:136
+msgid "Choose a page that displays all listings."
+msgstr "Pilih halaman yang menampilkan semua listing."
+
+#: includes/configs/strings.php:137
+msgid "Choose a page with terms that user has to accept before submitting a new listing."
+msgstr "Pilih halaman dengan ketentuan yang harus diterima pengguna sebelum mengirimkan listing baru."
+
+#: includes/configs/strings.php:173
+msgid "Attribute"
+msgstr "Atribut"
+
+#: includes/configs/strings.php:176
+msgid "Edit Attribute"
+msgstr "Edit Atribut"
+
+#: includes/configs/strings.php:177
+msgid "Search Attributes"
+msgstr "Atribut Pencarian"
+
+#: includes/configs/strings.php:178
+msgid "No attributes found."
+msgstr "Atribut tidak ditemukan."
+
+#: includes/configs/strings.php:168
+msgid "No categories found."
+msgstr "Tidak ada kategori yang ditemukan."
+
+#. translators: %s: file extensions.
+#: includes/controllers/class-attachment.php:179
+msgid "Only %s files are allowed."
+msgstr "Hanya file %s yang diizinkan."
+
+#: includes/controllers/class-user.php:246
+msgid "Username contains invalid characters."
+msgstr "Nama pengguna mengandung karakter yang tidak sah."
+
+#: includes/controllers/class-user.php:456
+msgid "User with this email doesn't exist."
+msgstr "Tidak ada pengguna dengan email ini."
+
+#: includes/controllers/class-user.php:458
+msgid "User with this username doesn't exist."
+msgstr "Tidak ada pengguna dengan nama pengguna ini."
+
+#: includes/controllers/class-user.php:587
+msgid "Current password is required."
+msgstr "Kata sandi saat ini diperlukan."
+
+#: includes/controllers/class-user.php:591
+msgid "Current password is incorrect."
+msgstr "Kata sandi saat ini salah."
+
+#: includes/controllers/class-user.php:644
+msgid "Password is incorrect."
+msgstr "Kata sandi salah."
+
+#: includes/emails/class-listing-submit.php:31
+msgid "A new listing \"%listing_title%\" has been submitted, click on the following link to view it: %listing_url%"
+msgstr "Listing baru \"%listing_title%\" telah dikirimkan, klik tautan berikut untuk melihatnya: %listing_url%"
+
+#: includes/emails/class-user-register.php:49
+msgid "Registration Complete"
+msgstr "Pendaftaran Selesai"
+
+#: includes/fields/class-attachment-select.php:38
+#: includes/fields/class-attachment-upload.php:124
+msgid "Select File"
+msgstr "Pilih File"
+
+#: includes/fields/class-number-range.php:71
+msgid "Min"
+msgstr "Min"
+
+#: includes/fields/class-number-range.php:84
+msgid "Max"
+msgstr "Maks"
+
+#: includes/fields/class-number.php:58
+msgid "Number"
+msgstr "Nomor"
+
+#: includes/fields/class-text.php:72
+msgid "Text"
+msgstr "Teks"
+
+#: includes/forms/class-form.php:150
+msgid "Submit"
+msgstr "Kirimkan"
+
+#: includes/configs/strings.php:20
+msgid "Filter"
+msgstr "Saring"
+
+#: includes/configs/strings.php:22
+msgid "Keywords"
+msgstr "Kata kunci"
+
+#: includes/configs/strings.php:19
+msgid "Search"
+msgstr "Cari"
+
+#: includes/configs/strings.php:21
+msgid "Sort by"
+msgstr "Urutkan dengan"
+
+#: includes/forms/class-user-delete.php:46
+msgid "Please enter your password below to permanently delete your account."
+msgstr "Silakan masukkan kata sandi anda di bawah ini untuk menghapus akun secara permanen."
+
+#: includes/forms/class-user-delete.php:63
+#: includes/templates/class-user-edit-settings-page.php:37
+#: templates/user/edit/page/user-delete-link.php:5
+msgid "Delete Account"
+msgstr "Hapus Akun"
+
+#: includes/forms/class-user-login.php:30
+msgid "Login User"
+msgstr "Login Pengguna"
+
+#: includes/forms/class-user-login.php:53
+#: includes/forms/class-user-password-request.php:53
+msgid "Username or Email"
+msgstr "Nama Pengguna atau Email"
+
+#: includes/forms/class-user-password-request.php:47
+msgid "Please enter your username or email address, you will receive a link to create a new password via email."
+msgstr "Silakan masukkan nama pengguna atau alamat email, anda akan menerima tautan untuk membuat kata sandi baru melalui email."
+
+#: includes/forms/class-user-password-request.php:48
+msgid "Password reset email has been sent."
+msgstr "Email pengaturan ulang kata sandi telah dikirim."
+
+#: includes/forms/class-user-password-request.php:66
+msgid "Send Email"
+msgstr "Kirim Email"
+
+#: includes/forms/class-user-password-reset.php:46
+msgid "Please enter a new password below."
+msgstr "Silakan masukkan kata sandi baru di bawah ini."
+
+#: includes/forms/class-user-password-reset.php:52
+#: includes/forms/class-user-update.php:70
+msgid "New Password"
+msgstr "Kata Sandi Baru"
+
+#: includes/forms/class-user-register.php:30
+msgid "Register User"
+msgstr "Daftarkan Pengguna"
+
+#: includes/forms/class-user-update.php:79
+msgid "Current Password"
+msgstr "Kata sandi saat ini"
+
+#: includes/menus/class-user-account.php:37
+msgid "Sign Out"
+msgstr "Keluar"
+
+#: includes/configs/strings.php:23
+msgid "Title"
+msgstr "Judul"
+
+#: includes/models/class-user.php:63
+msgid "Password"
+msgstr "Kata Sandi"
+
+#: includes/models/class-user.php:92
+msgid "Profile Info"
+msgstr "Info Profil"
+
+#: includes/models/class-user.php:106
+msgid "Profile Image"
+msgstr "Foto Profil"
+
+#: templates/listing/submit/listing-category-change-link.php:7
+msgid "Change Category"
+msgstr "Ubah Kategori"
+
+#. translators: %s: date.
+#: includes/configs/strings.php:67
+msgid "Added on %s"
+msgstr "Ditambahkan pada %s"
+
+#: templates/user/login/user-login-link.php:9
+msgid "My Account"
+msgstr "Akun Saya"
+
+#: templates/user/login/user-password-request-link.php:5
+msgid "Forgot password?"
+msgstr "Lupa kata sandi?"
+
+#: templates/user/login/user-register-link.php:7
+msgid "Don't have an account yet?"
+msgstr "Belum punya akun?"
+
+#: templates/user/password-reset/user-password-reset-message.php:5
+msgid "Password reset link is expired or invalid."
+msgstr "Tautan pengaturan ulang kata sandi telah kedaluwarsa atau tidak valid."
+
+#: templates/user/register/user-login-link.php:5
+msgid "Already have an account?"
+msgstr "Sudah memiliki akun?"
+
+#: templates/listing/edit/block/listing-view-link.php:7
+msgid "View"
+msgstr "Lihat"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+msgid "HivePress"
+msgstr "HivePress"
+
+#. Author URI of the plugin
+msgid "https://hivepress.io/"
+msgstr "https://hivepress.io/"
+
+#: includes/configs/strings.php:25
+msgid "Date"
+msgstr "Tanggal"
+
+#: includes/components/class-attribute.php:942
+#: includes/forms/class-listing-search.php:59
+msgid "All Categories"
+msgstr "Semua Kategori"
+
+#: includes/configs/settings.php:332
+msgid "Integrations"
+msgstr "Integrasi"
+
+#: includes/configs/strings.php:160
+msgid "Category"
+msgstr "Kategori"
+
+#: includes/emails/class-listing-approve.php:50
+msgid "Hi, %user_name%! Your listing \"%listing_title%\" has been approved, click on the following link to view it: %listing_url%"
+msgstr "Hai, %user_name%! Listing anda \"%listing_title%\" telah disetujui, klik tautan berikut untuk melihatnya: %listing_url%"
+
+#: includes/configs/settings.php:245 includes/configs/settings.php:250
+#: includes/configs/settings.php:288 includes/configs/settings.php:303
+msgid "Registration"
+msgstr "Daftar"
+
+#: includes/configs/strings.php:83
+msgid "Listings"
+msgstr "Listing"
+
+#. translators: %s: Listings number.
+#: includes/configs/strings.php:87
+msgid "%s Listing"
+msgid_plural "%s Listings"
+msgstr[0] "%s Listing"
+msgstr[1] ""
+
+#: includes/configs/strings.php:94
+msgid "No listings found."
+msgstr "Tidak ada listing."
+
+#: includes/controllers/class-user.php:248
+msgid "This username is already in use."
+msgstr "Nama pengguna ini telah digunakan."
+
+#: includes/controllers/class-user.php:254
+msgid "This email is already registered."
+msgstr "Email ini sudah terdaftar."
+
+#: includes/controllers/class-user.php:382
+#: includes/controllers/class-user.php:389
+msgid "Username or password is incorrect."
+msgstr "Nama pengguna atau kata sandi salah."
+
+#: includes/emails/class-listing-report.php:31
+msgid "Listing \"%listing_title%\" %listing_url% has been reported with the following details: %report_details%"
+msgstr "Listing \"%listing_title%\" %listing_url% telah dilaporkan dengan rincian berikut: %report_details%"
+
+#: includes/fields/class-checkbox.php:44
+msgid "Checkbox"
+msgstr "Kotak centang"
+
+#: includes/fields/class-checkboxes.php:30
+msgid "Checkboxes"
+msgstr "Kotak centang"
+
+#. translators: %s: Listing title.
+#: includes/configs/strings.php:114
+msgid "Thank you! Your listing \"%s\" has been submitted and will be reviewed as soon as possible."
+msgstr "Terima kasih! Listing anda \"%s\" telah dikirimkan dan akan segera ditinjau."
